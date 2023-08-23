@@ -13,3 +13,5 @@ Tools: Advanced Excel, Mysql, Tableau, Power BI.
 # output Excel Dashboard
 
 ![Excel HR](https://github.com/monikahadge/hrproject1/assets/136575778/1f18409c-9676-43ca-acfd-b75dd9ee3299)
+# output Tableau Dashboard
+![Tableau HR](https://github.com/monikahadge/hrproject1/assets/136575778/a0c6958f-2adc-4176-b86f-1c43be683e99)
