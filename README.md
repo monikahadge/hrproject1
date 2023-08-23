@@ -8,5 +8,8 @@ Data-driven recommendations led to 20% reduction in turnover.
 Presented findings to leadership, aligning HR policies with employee needs.
 Enhanced employee satisfaction, contributing to 15% increase in engagement.
 Tools: Advanced Excel, Mysql, Tableau, Power BI.
-# output
+# output Power BI dashboard
 ![hr powerBI](https://github.com/monikahadge/hrproject1/assets/136575778/b93ba661-b813-410b-915e-d16a7cf024d3)
+# output Excel Dashboard
+
+![Excel HR](https://github.com/monikahadge/hrproject1/assets/136575778/1f18409c-9676-43ca-acfd-b75dd9ee3299)
